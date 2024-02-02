@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 现任某小厂技术支持
+- 🔭 现任某小厂后端开发
 - 🌱 想学遍所有语言，奈何lazy + clumsy...
 - 💬 If you want to ask me something, just ask！
 - 📫 You can contact me via google mail...
